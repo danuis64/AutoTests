@@ -8,6 +8,7 @@ public class AnimalTest {
         double a = 12;
         double b = 13;
         double c = 25;
+        double k = 14;
         Assert.assertEquals(Calculator.sum(a, b), c, 0.01);
     }
 
